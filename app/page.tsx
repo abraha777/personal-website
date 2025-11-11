@@ -4,16 +4,14 @@ const Page = () => {
       {/* Header Section */}
       <header className="text-center py-12 bg-indigo-600 text-white">
         <h1 className="text-4xl font-bold">Hello, I'm Blerp</h1>
-        <p className="text-xl mt-4">A passionate web developer & designer</p>
+        <p className="text-xl mt-4">An aspiring gnome</p>
       </header>
 
       {/* Bio Section */}
       <section className="px-4 py-16 text-center">
         <h2 className="text-3xl font-semibold mb-6">About Me</h2>
         <p className="text-lg max-w-3xl mx-auto">
-          I'm a front-end developer with a love for clean design and intuitive user experiences.
-          I have experience building websites using modern JavaScript frameworks like React, Next.js, and more.
-          When I'm not coding, you can find me exploring new tech trends or experimenting with creative projects.
+          I enjoy nice lawns and fresh cut grass
         </p>
       </section>
 
