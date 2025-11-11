@@ -1,4 +1,6 @@
-export default function AnimatedGradient() {
+"use client"
+
+export default function Page() {
   return (
     <div className="min-h-screen bg-slate-900 font-mono">
       {/* Animated Gradient Header */}
